@@ -1,0 +1,6 @@
+{
+  "name": "Операція: Валіза 337 (Schorndorf → Stuttgart)",
+  "description": "Кооперативна асиметрична 2D ескейп-кімната для двох гравців із рацією PeerJS: Шорндорф — Штутгарт Hbf.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
